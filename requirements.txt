@@ -1,0 +1,6 @@
+topfarm
+numpy
+pandas
+matplotlib
+jupyter
+ipykernel
